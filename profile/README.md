@@ -9,7 +9,7 @@
 
 At [`prefix.dev`](https://prefix.dev) we are commited to a great developer experience, fast and reproducible software environments and speedy software package management that gets you and your colleagues ready to develop right away!
 
-We are the behind the succesful [`mamba`](https://github.com/mamba-org) package manager. Mamba handles packages for Python, C, C++, Fortran, Ruby and many more programming languages – at prefix.dev we are commited to expand that.
+We are the people behind the succesful [`mamba`](https://github.com/mamba-org) package manager. Mamba handles packages for Python, C, C++, Fortran, Ruby and many more programming languages – at prefix.dev we are commited to expand that.
 
 Some key features:
 
@@ -18,6 +18,6 @@ Some key features:
 - Packages are downloaded and decompressed in parallel
 - To get started - [**read our docs**](https://prefix.dev/docs)
 
-We collaborate with the open source [`conda-forge`](https://conda-forge.org) package distribution that ships many thousands of software packages for data science, machine learning. You can browse all avaiable packages on our fuzzy search on [prefix.dev](https://prefix.dev)! If you are missing a package, do not hesitate to reach out to us [via email](mailto:hi@prefix.dev) and we can help.
+We collaborate with the open source [`conda-forge`](https://conda-forge.org) package distribution that ships many tens of thousands of software packages for data science, machine learning. You can browse all available packages on our fuzzy search on [prefix.dev](https://prefix.dev)! If you are missing a package, do not hesitate to reach out to us [via email](mailto:hi@prefix.dev) and we can help.
 
 [**For more, read our blog posts**](https://prefix.dev/blog).
