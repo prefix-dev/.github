@@ -21,7 +21,7 @@ Our main projects are:
 We stand for:
 
 - **Package management should be cross-platform** – we support Linux, macOS and Windows and WebAssembly natively.
-- **Ship _binary_ packages** - Shipping packages as source to then compile is a way to slow down users of your code, we make building binary pacakges as easy as possible so you only build them once!
+- **Ship _binary_ packages** - Shipping packages as source to then compile is a way to slow down users of your code, we make building binary packages as easy as possible so you only build them once!
 - **We write our code in Rust**, because it is extremely developer friendly, perfect for our use case (low level, high computational load), cross platoform, and it has an amazing open source community which provides tons of great libraries like Serde, Miette, Reqwest, etc.
 
 
