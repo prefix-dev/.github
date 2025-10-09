@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <!-- <source media="(prefers-color-scheme: dark)" srcset="./dark.png"> -->
-    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="/assets/logo_symbol_light.svg" width="200">
+    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/prefix-dev.png" width="200">
   </picture>
 </p>
 
