@@ -21,7 +21,7 @@ We stand for:
 
 - **Package management should be cross-platform** – we support Linux, macOS and Windows and WebAssembly natively.
 - **Ship _binary_ packages** - Shipping packages as source to then compile is a way to slow down users of your code, we make building binary packages as easy as possible so you only build them once!
-- **We write our code in Rust**, because it is extremely developer friendly, perfect for our use case (low level, high computational load), cross platoform, and it has an amazing open source community which provides tons of great libraries like Serde, Miette, Reqwest, etc.
+- **We write our code in Rust**, because it is extremely developer friendly, perfect for our use case (low level, high computational load), cross platform, and it has an amazing open source community which provides tons of great libraries like Serde, Miette, Reqwest, etc.
 
 
 We collaborate with the open source [`conda-forge`](https://conda-forge.org) package distribution that ships many tens of thousands of software packages for data science, machine learning. You can browse all available packages on [prefix.dev](https://prefix.dev)! If you are missing a package, do not hesitate to reach out to us [via email](mailto:hi@prefix.dev) and we can help.
